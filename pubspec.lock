@@ -85,6 +85,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.0"
+  fluent_ui:
+    dependency: "direct main"
+    description:
+      name: fluent_ui
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "3.8.0"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -109,6 +116,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.1.1"
+  intl:
+    dependency: transitive
+    description:
+      name: intl
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.17.0"
   lints:
     dependency: transitive
     description:
@@ -165,6 +179,20 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.4.0"
+  recase:
+    dependency: transitive
+    description:
+      name: recase
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "4.0.0"
+  scroll_pos:
+    dependency: transitive
+    description:
+      name: scroll_pos
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.3.0"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -242,4 +270,4 @@ packages:
     version: "3.1.0"
 sdks:
   dart: ">=2.16.0 <3.0.0"
-  flutter: ">=1.20.0"
+  flutter: ">=2.8.0"
