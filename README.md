@@ -1,4 +1,4 @@
-This repo contains files that are part of the post at [Create Windows apps with Flutter - xeladu.medium.com](https://xeladu.medium.com/show-test-coverage-of-a-flutter-app-in-visual-studio-code-7e26c3b94aaf).
+This repo contains files that are part of the post at [Create Windows apps with Flutter - xeladu.medium.com](https://levelup.gitconnected.com/create-windows-apps-with-flutter-cd287c9a029c).
 
 # Content
 
