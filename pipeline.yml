@@ -2,7 +2,7 @@ trigger:
   - master
 
 pool:
-  vmImage: macOS-11
+  vmImage: windows-latest
 
 stages:        
 - stage: windowsStage
