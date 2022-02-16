@@ -28,6 +28,7 @@ stages:
         projectDirectory: '$(Build.SourcesDirectory)'
         
     - task: FlutterCommand@0
+      displayName: "Create MSIX package"
       inputs:
         projectDirectory: '.'
         arguments: 'pub run msix:create'
