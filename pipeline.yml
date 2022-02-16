@@ -32,12 +32,6 @@ stages:
         projectDirectory: '.'
         arguments: 'pub run msix:create'
 
-    - task: FlutterTest@0
-      displayName: "Run unit tests"
-      inputs:
-        generateCodeCoverageReport: true
-        projectDirectory: '$(Build.SourcesDirectory)'
-
     - task: CopyFiles@2
       displayName: "Copy app to staging directory"
       inputs:
