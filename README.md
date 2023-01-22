@@ -1,4 +1,7 @@
-This repo contains files that are part of the post at [Create Windows apps with Flutter - xeladu.medium.com](https://levelup.gitconnected.com/create-windows-apps-with-flutter-cd287c9a029c).
+# Sources
+
+[How to Create Windows Apps with Flutter on QuickCoder](https://quickcoder.org/flutter-win-demo/)<br />
+[How to Create Windows Apps with Flutter on Medium](https://levelup.gitconnected.com/create-windows-apps-with-flutter-cd287c9a029c)
 
 # Content
 
